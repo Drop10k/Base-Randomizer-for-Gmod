@@ -4,7 +4,6 @@
 Gui, Base_Randomizer: New, +AlwaysOnTop
 Gui, Margin, 20, 20
 Gui, Font, s12
-Gui, Add, Picture, x0 y30 w320 h590, C:\Users\4nimateclips\Downloads\Screenshot 2024-03-29 110737.png
 Gui, Add, Text, w200 Center +0x200, 🎲 Base Randomizer 🎲
 Gui, Add, GroupBox, x10 y50 w280 h330 vMenuGroup, Presets
 Gui, Add, Button, x20 y70 w240 h40 gRandomPreset, 🎲 Random
